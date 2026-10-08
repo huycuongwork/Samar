@@ -77,5 +77,3 @@ const topFunction = () => {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
-
-alert("Em lam het kha nang thoi a T-T");
